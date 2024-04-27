@@ -1,6 +1,7 @@
 body {
+	
 	font-family: 'Indie Flower',cursive ;
-  background: #FDE3A7;
+  	background: #FDE3A7;
 	margin: 0px;
 	padding: 0px;
 }
@@ -18,7 +19,7 @@ h4 {
 h5 {
 	font-size: 26px;
 	line-height: 1px;
-    text-align: center;
+    	text-align: center;
 	font-family: 'Amatic SC',cursive ;
 }
 
@@ -72,7 +73,6 @@ h5 {
 .card .imgBox {
 	width: 100%;
 	height: 100%;
-    
 	position: relative;
 	transform-origin: left;
 	transition: 2.7s;
@@ -99,7 +99,7 @@ h5 {
 .card:hover .bark {
 	opacity: 1;
 	transition: .6s;
-  box-shadow: 300px 200px 100px rgba(0, 0, 0, .4);
+  	box-shadow: 300px 200px 100px rgba(0, 0, 0, .4);
 }
 
 .card .details {
